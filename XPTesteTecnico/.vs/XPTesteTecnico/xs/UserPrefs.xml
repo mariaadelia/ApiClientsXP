@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8FD50B7B-0130-4B4A-AA70-997BF6B95D67}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XPTesteTecnico" expanded="True">
+            <Node name="Tests.XPTesteTecnico" expanded="True" />
+            <Node name="XPTesteTecnico" expanded="True">
+              <Node name="Repository" expanded="True">
+                <Node name="ClienteRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XPTesteTecnico PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

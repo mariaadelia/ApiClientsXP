@@ -4931,34 +4931,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cac64\\.nuget\\packages\\": {}
+    "/Users/mariaadelia/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cac64\\source\\repos\\Tests.XPTesteTecnico\\Tests.XPTesteTecnico.csproj",
+      "projectUniqueName": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/Tests.XPTesteTecnico/Tests.XPTesteTecnico.csproj",
       "projectName": "Tests.XPTesteTecnico",
-      "projectPath": "C:\\Users\\cac64\\source\\repos\\Tests.XPTesteTecnico\\Tests.XPTesteTecnico.csproj",
-      "packagesPath": "C:\\Users\\cac64\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cac64\\source\\repos\\Tests.XPTesteTecnico\\obj\\",
+      "projectPath": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/Tests.XPTesteTecnico/Tests.XPTesteTecnico.csproj",
+      "packagesPath": "/Users/mariaadelia/.nuget/packages/",
+      "outputPath": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/Tests.XPTesteTecnico/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cac64\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mariaadelia/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\cac64\\source\\repos\\XPTesteTecnico\\XPTesteTecnico.csproj": {
-              "projectPath": "C:\\Users\\cac64\\source\\repos\\XPTesteTecnico\\XPTesteTecnico.csproj"
+            "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/XPTesteTecnico/XPTesteTecnico.csproj": {
+              "projectPath": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/XPTesteTecnico/XPTesteTecnico.csproj"
             }
           }
         }
@@ -5006,7 +5004,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

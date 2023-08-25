@@ -4726,26 +4726,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cac64\\.nuget\\packages\\": {}
+    "/Users/mariaadelia/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cac64\\source\\repos\\XPTesteTecnico\\XPTesteTecnico.csproj",
+      "projectUniqueName": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/XPTesteTecnico/XPTesteTecnico.csproj",
       "projectName": "XPTesteTecnico",
-      "projectPath": "C:\\Users\\cac64\\source\\repos\\XPTesteTecnico\\XPTesteTecnico.csproj",
-      "packagesPath": "C:\\Users\\cac64\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cac64\\source\\repos\\XPTesteTecnico\\obj\\",
+      "projectPath": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/XPTesteTecnico/XPTesteTecnico.csproj",
+      "packagesPath": "/Users/mariaadelia/.nuget/packages/",
+      "outputPath": "/Users/mariaadelia/Desktop/Programação/TesteTecnico/TesteXP/ApiClientsXP/XPTesteTecnico/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cac64\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mariaadelia/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4808,7 +4806,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

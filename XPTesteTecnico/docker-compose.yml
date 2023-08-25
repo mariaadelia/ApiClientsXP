@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  mssqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "2023#Pass"
+      MSSQL_PID: Express
+    ports:
+      - "1433:1433"
+  testetecnicoxp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - mssqlserver
+    environment:
+      - DB_HOST=mssqlserver
+      - DB_NAME=TesteTecnicoXP
+      - DB_SA_PASSWORD=2023#Pass
